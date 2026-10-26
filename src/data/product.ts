@@ -1,6 +1,8 @@
 export const PAYMENT_LINK = "https://buy.stripe.com/bJebJ055GgvEaKm1QpeUU09";
 export const SUPPORT_EMAIL = "kingwizemusic@gmail.com";
-export const STORE = "Wize Workspace";
+export const STORE = "Luxurious Digital";
+export const LINE = "Luxurious Workspace";
+export const MAIN_SITE = "https://luxurious.digital";
 const img = (id: string) => `https://cf.cjdropshipping.com/${id}.jpg`;
 export const product = {
   title: 'Electric Standing Desk 63" x 24" – Sit-to-Stand Height Adjustable Desk',

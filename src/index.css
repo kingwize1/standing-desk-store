@@ -1,4 +1,5 @@
 @tailwind base;@tailwind components;@tailwind utilities;
 @keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
 .animate-marquee{animation:marquee 25s linear infinite}
-body{padding-bottom:72px}
+body{padding-bottom:72px;background:#fffdf9;color:#211b16}
+h1,h2,h3{font-family:"Iowan Old Style",Baskerville,Georgia,"Times New Roman",serif;letter-spacing:.01em}
